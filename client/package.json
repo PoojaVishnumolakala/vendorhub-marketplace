@@ -1,0 +1,1 @@
+{"name":"vendorhub-client","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite","build":"vite build","test":"vitest run"},"dependencies":{"@vitejs/plugin-react":"^4.3.1","lucide-react":"^0.468.0","react":"^18.3.1","react-dom":"^18.3.1","vendorhub-marketplace":"file:..","vite":"^5.4.8"},"devDependencies":{"vitest":"^2.1.3"}}
